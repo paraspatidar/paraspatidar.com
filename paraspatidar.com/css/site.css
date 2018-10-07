@@ -1,0 +1,71 @@
+li.rss-item { 
+    display: inline-block; 
+    zoom: 1;
+    *display: inline;
+    width:20%;
+    margin-left:15px
+  }
+
+  li.rss-items { 
+   margin-left: 10em
+  }
+
+  a.rss-item{
+    font-size:large;
+    font-weight:bold;
+  }
+
+  div.rss-box{
+    margin-left: 2em
+  }
+
+  .layer {
+    /* background-color: rgba(175, 213, 235, 0.7); */
+    background-color: rgba(4, 68, 134, 0.3);
+    /* position: absolute; */
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.myblock{
+    display: inline-block; 
+    zoom: 1;
+    *display: inline;
+    width:40%;
+    margin-left:10%
+}
+
+.progress .progress-value {
+    font-size: 1.2em;
+    letter-spacing: 2px;
+    color: #fff;
+    position: absolute;
+    top: -30px;
+    right: 0;
+}
+
+.skills-bar {
+     width: 100%; 
+}
+
+.blog
+{
+    margin-top:-8%;
+    
+}
+
+.hide{
+ visibility: hidden;
+}
+
+.show{
+visibility: visible
+}
+
+.clsemailSuccess
+{
+    background-color: tomato;
+    font-weight: bold;
+}
